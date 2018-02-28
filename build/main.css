@@ -1,0 +1,12 @@
+.twitter-logo {
+  width: 200px;
+  height: 200px;
+  background: url(sprite.svg#Skull_and_crossbones-usage) no-repeat;
+  background-size: contain;
+}
+.fb-logo {
+  width: 200px;
+  height: 200px;
+  background: url(sprite.svg#kiwi-usage) no-repeat;
+  background-size: contain;
+}

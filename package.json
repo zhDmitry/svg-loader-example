@@ -1,0 +1,16 @@
+{
+  "name": "extract-mode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "deepmerge": "^2.0.1",
+    "extract-text-webpack-plugin": "^2.x",
+    "svg-sprite-loader": "^3.6.2",
+    "webpack": "^3.x",
+    "webpack-cli": "^2.0.9"
+  }
+}
